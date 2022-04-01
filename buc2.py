@@ -2,6 +2,8 @@
 imprima las palabras ``Rojo'' y ``Dorado'' 20 veces. 
 (Rojo Dorado Rojo Dorado Rojo Dorado... en líneas separadas. 
 No utilices \n.) 
+
+fdgdfgdf
 """
 
 for i in range(5):
